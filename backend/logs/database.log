@@ -1,0 +1,2 @@
+[2025-06-10 14:51:17] [ERROR] Erreur de connexion : SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'
+[2025-06-10 14:53:33] [ERROR] Erreur de connexion : SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'

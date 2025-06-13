@@ -1,0 +1,246 @@
+[2025-06-10 15:12:50] JSON reçu: 
+[2025-06-10 15:12:50] Données décodées: 
+[2025-06-10 15:12:50] Données POST: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+[2025-06-10 15:12:50] Données finales: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$***
+)
+
+[2025-06-10 15:12:50] User Check: Utilisateur trouvé
+[2025-06-10 15:12:50] Password Hash: Hash stocké: $2y$10$9qJ...
+[2025-06-10 15:12:50] Login Result: Array
+(
+    [success] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+
+[2025-06-10 15:12:58] JSON reçu: 
+[2025-06-10 15:12:58] Données décodées: 
+[2025-06-10 15:12:58] Données POST: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+[2025-06-10 15:12:58] Données finales: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$***
+)
+
+[2025-06-10 15:12:58] User Check: Utilisateur trouvé
+[2025-06-10 15:12:58] Password Hash: Hash stocké: $2y$10$9qJ...
+[2025-06-10 15:12:58] Login Result: Array
+(
+    [success] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+
+[2025-06-10 15:13:04] JSON reçu: 
+[2025-06-10 15:13:04] Données décodées: 
+[2025-06-10 15:13:04] Données POST: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+[2025-06-10 15:13:04] Données finales: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$***
+)
+
+[2025-06-10 15:13:04] User Check: Utilisateur trouvé
+[2025-06-10 15:13:04] Password Hash: Hash stocké: $2y$10$9qJ...
+[2025-06-10 15:13:04] Login Result: Array
+(
+    [success] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+
+[2025-06-10 15:18:14] JSON reçu: 
+[2025-06-10 15:18:14] Données décodées: 
+[2025-06-10 15:18:14] Données POST: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+[2025-06-10 15:18:14] Données finales: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$***
+)
+
+[2025-06-10 15:18:14] User Check: Utilisateur trouvé
+[2025-06-10 15:18:14] Password Hash: Hash stocké: $2y$10$9qJ...
+[2025-06-10 15:18:14] Login Result: Array
+(
+    [success] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+
+[2025-06-10 15:21:05] JSON reçu: 
+[2025-06-10 15:21:05] Données décodées: 
+[2025-06-10 15:21:05] Données POST: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+[2025-06-10 15:21:05] Données finales: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$***
+)
+
+[2025-06-10 15:21:05] User Check: Utilisateur trouvé
+[2025-06-10 15:21:05] Password Hash: Hash stocké: $2y$10$9qJ...
+[2025-06-10 15:21:05] Login Result: Array
+(
+    [success] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+
+[2025-06-10 15:21:12] JSON reçu: 
+[2025-06-10 15:21:12] Données décodées: 
+[2025-06-10 15:21:12] Données POST: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+[2025-06-10 15:21:12] Données finales: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$***
+)
+
+[2025-06-10 15:21:12] User Check: Utilisateur trouvé
+[2025-06-10 15:21:12] Password Hash: Hash stocké: $2y$10$9qJ...
+[2025-06-10 15:21:12] Login Result: Array
+(
+    [success] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+
+[2025-06-10 15:29:33] JSON reçu: 
+[2025-06-10 15:29:33] Données décodées: 
+[2025-06-10 15:29:33] Données POST: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+[2025-06-10 15:29:33] Données finales: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$***
+)
+
+[2025-06-10 15:29:33] User Check: Utilisateur trouvé
+[2025-06-10 15:29:33] Password Hash: Hash stocké: $2y$10$9qJ...
+[2025-06-10 15:29:33] Login Result: Array
+(
+    [success] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+
+[2025-06-11 13:39:47] JSON reçu: {"email":"monezefigy@mailinator.com","password":"Pa$$w0rd!"}
+[2025-06-11 13:39:47] Données décodées: Array
+(
+    [email] => monezefigy@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+[2025-06-11 13:39:47] Données finales: Array
+(
+    [email] => monezefigy@mailinator.com
+)
+
+[2025-06-11 13:39:47] Login Result: Array
+(
+    [success] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+
+[2025-06-11 13:39:47] Session créée: Array
+(
+    [user_id] => 1
+    [user_email] => monezefigy@mailinator.com
+    [user_role] => admin
+    [user_name] => Test User
+    [last_activity] => 1749645587
+    [authenticated] => 1
+    [user] => Array
+        (
+            [id] => 1
+            [email] => monezefigy@mailinator.com
+            [name] => Test User
+            [role] => admin
+        )
+
+)
+

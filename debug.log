@@ -1,0 +1,921 @@
+[2025-06-10 14:51:15] URI requested: /login
+[2025-06-10 14:51:15] : Routing to frontend
+[2025-06-10 14:51:15] URI requested: /assets/css/auth.css
+[2025-06-10 14:51:15] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 14:51:15] : Asset file exists, serving it
+[2025-06-10 14:51:15] URI requested: /assets/css/style.css
+[2025-06-10 14:51:15] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 14:51:15] : Asset file exists, serving it
+[2025-06-10 14:51:16] URI requested: /assets/js/auth.js
+[2025-06-10 14:51:16] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 14:51:16] : Asset file exists, serving it
+[2025-06-10 14:51:16] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 14:51:16] : Routing to frontend
+[2025-06-10 14:51:16] URI requested: /login
+[2025-06-10 14:51:16] : Routing to frontend
+[2025-06-10 14:51:16] URI requested: /assets/js/auth.js
+[2025-06-10 14:51:16] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 14:51:16] : Asset file exists, serving it
+[2025-06-10 14:51:16] URI requested: /favicon.ico
+[2025-06-10 14:51:16] : Routing to frontend
+[2025-06-10 14:51:17] URI requested: /login
+[2025-06-10 14:51:17] : Routing to frontend
+[2025-06-10 14:51:17] URI requested: /backend/api/auth/login.php
+[2025-06-10 14:51:17] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 14:51:17] : API file exists, including it
+[2025-06-10 14:53:32] URI requested: /login
+[2025-06-10 14:53:32] : Routing to frontend
+[2025-06-10 14:53:32] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 14:53:32] : Routing to frontend
+[2025-06-10 14:53:32] URI requested: /assets/css/auth.css
+[2025-06-10 14:53:32] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 14:53:32] : Asset file exists, serving it
+[2025-06-10 14:53:32] URI requested: /assets/css/style.css
+[2025-06-10 14:53:32] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 14:53:32] : Asset file exists, serving it
+[2025-06-10 14:53:32] URI requested: /assets/js/auth.js
+[2025-06-10 14:53:32] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 14:53:32] : Asset file exists, serving it
+[2025-06-10 14:53:32] URI requested: /login
+[2025-06-10 14:53:32] : Routing to frontend
+[2025-06-10 14:53:33] URI requested: /favicon.ico
+[2025-06-10 14:53:33] : Routing to frontend
+[2025-06-10 14:53:33] URI requested: /assets/js/auth.js
+[2025-06-10 14:53:33] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 14:53:33] : Asset file exists, serving it
+[2025-06-10 14:53:33] URI requested: /login
+[2025-06-10 14:53:33] : Routing to frontend
+[2025-06-10 14:53:33] URI requested: /backend/api/auth/login.php
+[2025-06-10 14:53:33] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 14:53:33] : API file exists, including it
+[2025-06-10 14:57:05] URI requested: /login
+[2025-06-10 14:57:05] : Routing to frontend
+[2025-06-10 14:57:05] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 14:57:05] : Routing to frontend
+[2025-06-10 14:57:05] URI requested: /assets/css/auth.css
+[2025-06-10 14:57:05] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 14:57:05] : Asset file exists, serving it
+[2025-06-10 14:57:06] URI requested: /assets/css/style.css
+[2025-06-10 14:57:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 14:57:06] : Asset file exists, serving it
+[2025-06-10 14:57:06] URI requested: /assets/js/auth.js
+[2025-06-10 14:57:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 14:57:06] : Asset file exists, serving it
+[2025-06-10 14:57:06] URI requested: /login
+[2025-06-10 14:57:06] : Routing to frontend
+[2025-06-10 14:57:06] URI requested: /favicon.ico
+[2025-06-10 14:57:06] : Routing to frontend
+[2025-06-10 14:57:07] URI requested: /login
+[2025-06-10 14:57:07] : Routing to frontend
+[2025-06-10 14:57:07] URI requested: /backend/api/auth/login.php
+[2025-06-10 14:57:07] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 14:57:07] : API file exists, including it
+[2025-06-10 15:00:04] URI requested: /login
+[2025-06-10 15:00:04] : Routing to frontend
+[2025-06-10 15:00:05] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:00:05] : Routing to frontend
+[2025-06-10 15:00:05] URI requested: /assets/css/auth.css
+[2025-06-10 15:00:05] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:00:05] : Asset file exists, serving it
+[2025-06-10 15:00:05] URI requested: /assets/css/style.css
+[2025-06-10 15:00:05] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:00:05] : Asset file exists, serving it
+[2025-06-10 15:00:05] URI requested: /assets/js/auth.js
+[2025-06-10 15:00:05] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:00:05] : Asset file exists, serving it
+[2025-06-10 15:00:05] URI requested: /login
+[2025-06-10 15:00:05] : Routing to frontend
+[2025-06-10 15:00:05] URI requested: /assets/js/auth.js
+[2025-06-10 15:00:05] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:00:05] : Asset file exists, serving it
+[2025-06-10 15:00:06] URI requested: /favicon.ico
+[2025-06-10 15:00:06] : Routing to frontend
+[2025-06-10 15:00:06] URI requested: /login
+[2025-06-10 15:00:06] : Routing to frontend
+[2025-06-10 15:00:06] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:00:06] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:00:06] : API file exists, including it
+[2025-06-10 15:03:40] URI requested: /login
+[2025-06-10 15:03:40] : Routing to frontend
+[2025-06-10 15:03:40] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:03:40] : Routing to frontend
+[2025-06-10 15:03:40] URI requested: /assets/css/auth.css
+[2025-06-10 15:03:40] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:03:40] : Asset file exists, serving it
+[2025-06-10 15:03:40] URI requested: /assets/css/style.css
+[2025-06-10 15:03:40] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:03:40] : Asset file exists, serving it
+[2025-06-10 15:03:40] URI requested: /assets/js/auth.js
+[2025-06-10 15:03:40] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:03:40] : Asset file exists, serving it
+[2025-06-10 15:03:40] URI requested: /login
+[2025-06-10 15:03:40] : Routing to frontend
+[2025-06-10 15:03:41] URI requested: /favicon.ico
+[2025-06-10 15:03:41] : Routing to frontend
+[2025-06-10 15:03:41] URI requested: /login
+[2025-06-10 15:03:41] : Routing to frontend
+[2025-06-10 15:03:41] URI requested: /assets/js/auth.js
+[2025-06-10 15:03:41] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:03:41] : Asset file exists, serving it
+[2025-06-10 15:03:42] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:03:42] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:03:42] : API file exists, including it
+[2025-06-10 15:07:50] URI requested: /login
+[2025-06-10 15:07:50] : Routing to frontend
+[2025-06-10 15:07:50] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:07:50] : Routing to frontend
+[2025-06-10 15:07:50] URI requested: /assets/css/auth.css
+[2025-06-10 15:07:50] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:07:50] : Asset file exists, serving it
+[2025-06-10 15:07:50] URI requested: /assets/css/style.css
+[2025-06-10 15:07:50] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:07:50] : Asset file exists, serving it
+[2025-06-10 15:07:50] URI requested: /assets/js/auth.js
+[2025-06-10 15:07:50] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:07:50] : Asset file exists, serving it
+[2025-06-10 15:07:50] URI requested: /login
+[2025-06-10 15:07:50] : Routing to frontend
+[2025-06-10 15:07:50] URI requested: /assets/js/auth.js
+[2025-06-10 15:07:50] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:07:50] : Asset file exists, serving it
+[2025-06-10 15:07:51] URI requested: /favicon.ico
+[2025-06-10 15:07:51] : Routing to frontend
+[2025-06-10 15:07:51] URI requested: /login
+[2025-06-10 15:07:51] : Routing to frontend
+[2025-06-10 15:07:51] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:07:51] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:07:51] : API file exists, including it
+[2025-06-10 15:12:48] URI requested: /login
+[2025-06-10 15:12:48] : Routing to frontend
+[2025-06-10 15:12:48] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:12:48] : Routing to frontend
+[2025-06-10 15:12:48] URI requested: /assets/css/auth.css
+[2025-06-10 15:12:48] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:12:48] : Asset file exists, serving it
+[2025-06-10 15:12:49] URI requested: /assets/css/style.css
+[2025-06-10 15:12:49] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:12:49] : Asset file exists, serving it
+[2025-06-10 15:12:49] URI requested: /login
+[2025-06-10 15:12:49] : Routing to frontend
+[2025-06-10 15:12:49] URI requested: /assets/js/auth.js
+[2025-06-10 15:12:49] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:12:49] : Asset file exists, serving it
+[2025-06-10 15:12:49] URI requested: /assets/js/auth.js
+[2025-06-10 15:12:49] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:12:49] : Asset file exists, serving it
+[2025-06-10 15:12:49] URI requested: /favicon.ico
+[2025-06-10 15:12:49] : Routing to frontend
+[2025-06-10 15:12:50] URI requested: /login
+[2025-06-10 15:12:50] : Routing to frontend
+[2025-06-10 15:12:50] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:12:50] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:12:50] : API file exists, including it
+[2025-06-10 15:12:52] URI requested: /dashboard
+[2025-06-10 15:12:52] : Routing to frontend
+[2025-06-10 15:12:52] URI requested: /login
+[2025-06-10 15:12:52] : Routing to frontend
+[2025-06-10 15:12:52] URI requested: /assets/css/auth.css
+[2025-06-10 15:12:52] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:12:52] : Asset file exists, serving it
+[2025-06-10 15:12:52] URI requested: /assets/js/auth.js
+[2025-06-10 15:12:52] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:12:52] : Asset file exists, serving it
+[2025-06-10 15:12:52] URI requested: /assets/css/style.css
+[2025-06-10 15:12:52] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:12:52] : Asset file exists, serving it
+[2025-06-10 15:12:52] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:12:52] : Routing to frontend
+[2025-06-10 15:12:52] URI requested: /login
+[2025-06-10 15:12:52] : Routing to frontend
+[2025-06-10 15:12:52] URI requested: /assets/js/auth.js
+[2025-06-10 15:12:52] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:12:52] : Asset file exists, serving it
+[2025-06-10 15:12:53] URI requested: /favicon.ico
+[2025-06-10 15:12:53] : Routing to frontend
+[2025-06-10 15:12:53] URI requested: /login
+[2025-06-10 15:12:53] : Routing to frontend
+[2025-06-10 15:12:58] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:12:58] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:12:58] : API file exists, including it
+[2025-06-10 15:13:00] URI requested: /dashboard
+[2025-06-10 15:13:00] : Routing to frontend
+[2025-06-10 15:13:00] URI requested: /login
+[2025-06-10 15:13:00] : Routing to frontend
+[2025-06-10 15:13:00] URI requested: /assets/css/auth.css
+[2025-06-10 15:13:00] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:13:00] : Asset file exists, serving it
+[2025-06-10 15:13:00] URI requested: /assets/css/style.css
+[2025-06-10 15:13:00] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:13:00] : Asset file exists, serving it
+[2025-06-10 15:13:00] URI requested: /assets/js/auth.js
+[2025-06-10 15:13:00] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:13:00] : Asset file exists, serving it
+[2025-06-10 15:13:00] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:13:00] : Routing to frontend
+[2025-06-10 15:13:00] URI requested: /assets/js/auth.js
+[2025-06-10 15:13:00] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:13:00] : Asset file exists, serving it
+[2025-06-10 15:13:00] URI requested: /login
+[2025-06-10 15:13:00] : Routing to frontend
+[2025-06-10 15:13:01] URI requested: /favicon.ico
+[2025-06-10 15:13:01] : Routing to frontend
+[2025-06-10 15:13:01] URI requested: /login
+[2025-06-10 15:13:01] : Routing to frontend
+[2025-06-10 15:13:04] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:13:04] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:13:04] : API file exists, including it
+[2025-06-10 15:13:05] URI requested: /dashboard
+[2025-06-10 15:13:05] : Routing to frontend
+[2025-06-10 15:13:05] URI requested: /login
+[2025-06-10 15:13:05] : Routing to frontend
+[2025-06-10 15:13:06] URI requested: /assets/css/auth.css
+[2025-06-10 15:13:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:13:06] : Asset file exists, serving it
+[2025-06-10 15:13:06] URI requested: /assets/css/style.css
+[2025-06-10 15:13:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:13:06] : Asset file exists, serving it
+[2025-06-10 15:13:06] URI requested: /assets/js/auth.js
+[2025-06-10 15:13:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:13:06] : Asset file exists, serving it
+[2025-06-10 15:13:06] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:13:06] : Routing to frontend
+[2025-06-10 15:13:06] URI requested: /login
+[2025-06-10 15:13:06] : Routing to frontend
+[2025-06-10 15:13:06] URI requested: /assets/js/auth.js
+[2025-06-10 15:13:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:13:06] : Asset file exists, serving it
+[2025-06-10 15:13:06] URI requested: /favicon.ico
+[2025-06-10 15:13:06] : Routing to frontend
+[2025-06-10 15:13:06] URI requested: /login
+[2025-06-10 15:13:06] : Routing to frontend
+[2025-06-10 15:18:12] URI requested: /login
+[2025-06-10 15:18:12] : Routing to frontend
+[2025-06-10 15:18:12] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:18:12] : Routing to frontend
+[2025-06-10 15:18:13] URI requested: /assets/css/auth.css
+[2025-06-10 15:18:13] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:18:13] : Asset file exists, serving it
+[2025-06-10 15:18:13] URI requested: /assets/css/style.css
+[2025-06-10 15:18:13] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:18:13] : Asset file exists, serving it
+[2025-06-10 15:18:13] URI requested: /login
+[2025-06-10 15:18:13] : Routing to frontend
+[2025-06-10 15:18:13] URI requested: /assets/js/auth.js
+[2025-06-10 15:18:13] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:18:13] : Asset file exists, serving it
+[2025-06-10 15:18:13] URI requested: /assets/js/auth.js
+[2025-06-10 15:18:13] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:18:13] : Asset file exists, serving it
+[2025-06-10 15:18:13] URI requested: /favicon.ico
+[2025-06-10 15:18:13] : Routing to frontend
+[2025-06-10 15:18:14] URI requested: /login
+[2025-06-10 15:18:14] : Routing to frontend
+[2025-06-10 15:18:14] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:18:14] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:18:14] : API file exists, including it
+[2025-06-10 15:18:15] URI requested: /frontend/pages/dashboard.php
+[2025-06-10 15:18:15] : Routing to frontend
+[2025-06-10 15:18:15] URI requested: /login
+[2025-06-10 15:18:15] : Routing to frontend
+[2025-06-10 15:18:16] URI requested: /assets/css/auth.css
+[2025-06-10 15:18:16] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:18:16] : Asset file exists, serving it
+[2025-06-10 15:18:16] URI requested: /assets/css/style.css
+[2025-06-10 15:18:16] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:18:16] : Asset file exists, serving it
+[2025-06-10 15:18:16] URI requested: /assets/js/auth.js
+[2025-06-10 15:18:16] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:18:16] : Asset file exists, serving it
+[2025-06-10 15:18:16] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:18:16] : Routing to frontend
+[2025-06-10 15:18:16] URI requested: /assets/js/auth.js
+[2025-06-10 15:18:16] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:18:16] : Asset file exists, serving it
+[2025-06-10 15:18:16] URI requested: /login
+[2025-06-10 15:18:16] : Routing to frontend
+[2025-06-10 15:18:16] URI requested: /favicon.ico
+[2025-06-10 15:18:16] : Routing to frontend
+[2025-06-10 15:18:17] URI requested: /login
+[2025-06-10 15:18:17] : Routing to frontend
+[2025-06-10 15:21:05] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:21:05] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:21:05] : API file exists, including it
+[2025-06-10 15:21:06] URI requested: /frontend/pages/dashboard.php
+[2025-06-10 15:21:06] : Routing to frontend
+[2025-06-10 15:21:06] URI requested: /login
+[2025-06-10 15:21:06] : Routing to frontend
+[2025-06-10 15:21:06] URI requested: /assets/css/style.css
+[2025-06-10 15:21:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:21:06] : Asset file exists, serving it
+[2025-06-10 15:21:06] URI requested: /assets/css/auth.css
+[2025-06-10 15:21:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:21:06] : Asset file exists, serving it
+[2025-06-10 15:21:06] URI requested: /assets/js/auth.js
+[2025-06-10 15:21:06] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:21:06] : Asset file exists, serving it
+[2025-06-10 15:21:06] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:21:06] : Routing to frontend
+[2025-06-10 15:21:07] URI requested: /login
+[2025-06-10 15:21:07] : Routing to frontend
+[2025-06-10 15:21:07] URI requested: /assets/js/auth.js
+[2025-06-10 15:21:07] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:21:07] : Asset file exists, serving it
+[2025-06-10 15:21:07] URI requested: /favicon.ico
+[2025-06-10 15:21:07] : Routing to frontend
+[2025-06-10 15:21:07] URI requested: /login
+[2025-06-10 15:21:07] : Routing to frontend
+[2025-06-10 15:21:12] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:21:12] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:21:12] : API file exists, including it
+[2025-06-10 15:21:13] URI requested: /frontend/pages/dashboard.php
+[2025-06-10 15:21:13] : Routing to frontend
+[2025-06-10 15:21:13] URI requested: /login
+[2025-06-10 15:21:13] : Routing to frontend
+[2025-06-10 15:21:14] URI requested: /assets/css/auth.css
+[2025-06-10 15:21:14] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:21:14] : Asset file exists, serving it
+[2025-06-10 15:21:14] URI requested: /assets/css/style.css
+[2025-06-10 15:21:14] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:21:14] : Asset file exists, serving it
+[2025-06-10 15:21:14] URI requested: /assets/js/auth.js
+[2025-06-10 15:21:14] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:21:14] : Asset file exists, serving it
+[2025-06-10 15:21:14] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:21:14] : Routing to frontend
+[2025-06-10 15:21:14] URI requested: /assets/js/auth.js
+[2025-06-10 15:21:14] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:21:14] : Asset file exists, serving it
+[2025-06-10 15:21:14] URI requested: /login
+[2025-06-10 15:21:14] : Routing to frontend
+[2025-06-10 15:21:15] URI requested: /favicon.ico
+[2025-06-10 15:21:15] : Routing to frontend
+[2025-06-10 15:21:15] URI requested: /login
+[2025-06-10 15:21:15] : Routing to frontend
+[2025-06-10 15:21:24] URI requested: /dashboard
+[2025-06-10 15:21:24] : Routing to frontend
+[2025-06-10 15:21:24] URI requested: /login
+[2025-06-10 15:21:24] : Routing to frontend
+[2025-06-10 15:21:25] URI requested: /assets/css/auth.css
+[2025-06-10 15:21:25] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:21:25] : Asset file exists, serving it
+[2025-06-10 15:21:25] URI requested: /assets/css/style.css
+[2025-06-10 15:21:25] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:21:25] : Asset file exists, serving it
+[2025-06-10 15:21:25] URI requested: /assets/js/auth.js
+[2025-06-10 15:21:25] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:21:25] : Asset file exists, serving it
+[2025-06-10 15:21:25] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:21:25] : Routing to frontend
+[2025-06-10 15:21:25] URI requested: /login
+[2025-06-10 15:21:25] : Routing to frontend
+[2025-06-10 15:21:25] URI requested: /assets/js/auth.js
+[2025-06-10 15:21:25] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:21:25] : Asset file exists, serving it
+[2025-06-10 15:21:25] URI requested: /favicon.ico
+[2025-06-10 15:21:25] : Routing to frontend
+[2025-06-10 15:21:25] URI requested: /login
+[2025-06-10 15:21:25] : Routing to frontend
+[2025-06-10 15:27:27] URI requested: /login
+[2025-06-10 15:27:27] : Routing to frontend
+[2025-06-10 15:27:27] URI requested: /.well-known/appspecific/com.chrome.devtools.json
+[2025-06-10 15:27:27] : Routing to frontend
+[2025-06-10 15:27:28] URI requested: /favicon.ico
+[2025-06-10 15:27:28] : Routing to frontend
+[2025-06-10 15:29:29] URI requested: /login
+[2025-06-10 15:29:29] : Routing to frontend
+[2025-06-10 15:29:29] URI requested: /assets/css/auth.css
+[2025-06-10 15:29:29] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 15:29:29] : Asset file exists, serving it
+[2025-06-10 15:29:29] URI requested: /assets/css/style.css
+[2025-06-10 15:29:29] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 15:29:29] : Asset file exists, serving it
+[2025-06-10 15:29:30] URI requested: /assets/js/auth.js
+[2025-06-10 15:29:30] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:29:30] : Asset file exists, serving it
+[2025-06-10 15:29:30] URI requested: /favicon.ico
+[2025-06-10 15:29:30] : Routing to frontend
+[2025-06-10 15:29:31] URI requested: /login
+[2025-06-10 15:29:31] : Routing to frontend
+[2025-06-10 15:29:31] URI requested: /assets/js/auth.js
+[2025-06-10 15:29:31] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 15:29:31] : Asset file exists, serving it
+[2025-06-10 15:29:33] URI requested: /backend/api/auth/login.php
+[2025-06-10 15:29:33] API file path: /home/mohi/projectflow-ing1-5-2025/backend/api/auth/login.php
+[2025-06-10 15:29:33] : API file exists, including it
+[2025-06-10 15:29:34] URI requested: /dashboard
+[2025-06-10 15:29:34] : Routing to frontend
+[2025-06-10 15:29:35] URI requested: /favicon.ico
+[2025-06-10 15:29:35] : Routing to frontend
+[2025-06-10 15:31:55] URI requested: /dashboard
+[2025-06-10 15:31:55] : Routing to frontend
+[2025-06-10 15:37:31] URI requested: /dashboard
+[2025-06-10 15:37:31] : Routing to frontend
+[2025-06-10 15:37:31] URI requested: /frontend/assets/css/bootstrap.min.css
+[2025-06-10 15:37:31] : Routing to frontend
+[2025-06-10 15:37:32] URI requested: /frontend/assets/css/style.css
+[2025-06-10 15:37:32] : Routing to frontend
+[2025-06-10 15:37:32] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 15:37:32] : Routing to frontend
+[2025-06-10 15:37:32] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 15:37:32] : Routing to frontend
+[2025-06-10 15:37:32] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:37:32] : Routing to frontend
+[2025-06-10 15:37:32] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:37:32] : Routing to frontend
+[2025-06-10 15:37:32] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:37:32] : Routing to frontend
+[2025-06-10 15:37:33] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:37:33] : Routing to frontend
+[2025-06-10 15:37:33] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:37:33] : Routing to frontend
+[2025-06-10 15:37:33] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:37:33] : Routing to frontend
+[2025-06-10 15:38:00] URI requested: /dashboard
+[2025-06-10 15:38:00] : Routing to frontend
+[2025-06-10 15:38:00] URI requested: /frontend/assets/css/bootstrap.min.css
+[2025-06-10 15:38:00] : Routing to frontend
+[2025-06-10 15:38:00] URI requested: /frontend/assets/css/style.css
+[2025-06-10 15:38:00] : Routing to frontend
+[2025-06-10 15:38:00] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 15:38:00] : Routing to frontend
+[2025-06-10 15:38:00] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 15:38:00] : Routing to frontend
+[2025-06-10 15:38:00] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:38:00] : Routing to frontend
+[2025-06-10 15:38:00] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:38:00] : Routing to frontend
+[2025-06-10 15:38:00] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:38:00] : Routing to frontend
+[2025-06-10 15:38:01] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:38:01] : Routing to frontend
+[2025-06-10 15:38:01] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:38:01] : Routing to frontend
+[2025-06-10 15:38:01] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:38:01] : Routing to frontend
+[2025-06-10 15:43:49] URI requested: /dashboard
+[2025-06-10 15:43:49] : Routing to frontend
+[2025-06-10 15:43:49] URI requested: /frontend/assets/css/bootstrap.min.css
+[2025-06-10 15:43:49] : Routing to frontend
+[2025-06-10 15:43:50] URI requested: /frontend/assets/css/style.css
+[2025-06-10 15:43:50] : Routing to frontend
+[2025-06-10 15:43:50] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 15:43:50] : Routing to frontend
+[2025-06-10 15:43:50] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 15:43:50] : Routing to frontend
+[2025-06-10 15:43:50] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:43:50] : Routing to frontend
+[2025-06-10 15:43:50] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:43:50] : Routing to frontend
+[2025-06-10 15:43:50] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:43:50] : Routing to frontend
+[2025-06-10 15:43:51] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:43:51] : Routing to frontend
+[2025-06-10 15:43:51] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:43:51] : Routing to frontend
+[2025-06-10 15:43:51] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:43:51] : Routing to frontend
+[2025-06-10 15:47:10] URI requested: /dashboard
+[2025-06-10 15:47:10] : Routing to frontend
+[2025-06-10 15:47:10] URI requested: /frontend/assets/css/bootstrap.min.css
+[2025-06-10 15:47:10] : Routing to frontend
+[2025-06-10 15:47:10] URI requested: /frontend/assets/css/style.css
+[2025-06-10 15:47:10] : Routing to frontend
+[2025-06-10 15:47:11] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 15:47:11] : Routing to frontend
+[2025-06-10 15:47:11] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 15:47:11] : Routing to frontend
+[2025-06-10 15:47:11] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:47:11] : Routing to frontend
+[2025-06-10 15:47:11] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:47:11] : Routing to frontend
+[2025-06-10 15:47:11] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:47:11] : Routing to frontend
+[2025-06-10 15:47:12] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:47:12] : Routing to frontend
+[2025-06-10 15:47:12] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:47:12] : Routing to frontend
+[2025-06-10 15:47:12] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:47:12] : Routing to frontend
+[2025-06-10 15:48:18] URI requested: /dashboard
+[2025-06-10 15:48:18] : Routing to frontend
+[2025-06-10 15:48:18] URI requested: /frontend/assets/css/bootstrap.min.css
+[2025-06-10 15:48:18] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/css/style.css
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:19] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:48:19] : Routing to frontend
+[2025-06-10 15:48:27] URI requested: /dashboard
+[2025-06-10 15:48:27] : Routing to frontend
+[2025-06-10 15:48:27] URI requested: /frontend/assets/css/bootstrap.min.css
+[2025-06-10 15:48:27] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/css/style.css
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/js/bootstrap.bundle.min.js
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:48:28] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:48:28] : Routing to frontend
+[2025-06-10 15:56:35] URI requested: /dashboard
+[2025-06-10 15:56:35] : Routing to frontend
+[2025-06-10 15:56:35] URI requested: /frontend/assets/css/style.css
+[2025-06-10 15:56:35] : Routing to frontend
+[2025-06-10 15:56:35] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 15:56:35] : Routing to frontend
+[2025-06-10 15:56:35] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 15:56:35] : Routing to frontend
+[2025-06-10 15:56:35] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:56:35] : Routing to frontend
+[2025-06-10 15:56:35] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:56:35] : Routing to frontend
+[2025-06-10 15:56:37] URI requested: /frontend/assets/js/main.js
+[2025-06-10 15:56:37] : Routing to frontend
+[2025-06-10 15:56:37] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 15:56:37] : Routing to frontend
+[2025-06-10 15:56:48] URI requested: /tasks
+[2025-06-10 15:56:48] : Routing to frontend
+[2025-06-10 15:56:59] URI requested: /projects
+[2025-06-10 15:56:59] : Routing to frontend
+[2025-06-10 16:01:40] URI requested: /projects
+[2025-06-10 16:01:40] : Routing to frontend
+[2025-06-10 16:01:41] URI requested: /assets/images/empty-projects.svg
+[2025-06-10 16:01:41] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/images/empty-projects.svg
+[2025-06-10 16:01:41] : Asset file not found
+[2025-06-10 16:01:41] : Routing to frontend
+[2025-06-10 16:11:40] URI requested: /projects
+[2025-06-10 16:11:40] : Routing to frontend
+[2025-06-10 16:11:40] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:11:40] : Routing to frontend
+[2025-06-10 16:11:40] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:11:40] : Routing to frontend
+[2025-06-10 16:11:40] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:11:40] : Routing to frontend
+[2025-06-10 16:11:40] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:11:40] : Routing to frontend
+[2025-06-10 16:11:40] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:11:40] : Routing to frontend
+[2025-06-10 16:11:42] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:11:42] : Routing to frontend
+[2025-06-10 16:11:42] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:11:42] : Routing to frontend
+[2025-06-10 16:11:48] URI requested: /tasks
+[2025-06-10 16:11:48] : Routing to frontend
+[2025-06-10 16:11:49] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:11:49] : Routing to frontend
+[2025-06-10 16:11:49] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:11:49] : Routing to frontend
+[2025-06-10 16:11:49] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:11:49] : Routing to frontend
+[2025-06-10 16:11:49] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:11:49] : Routing to frontend
+[2025-06-10 16:11:49] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:11:49] : Routing to frontend
+[2025-06-10 16:11:49] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:11:49] : Routing to frontend
+[2025-06-10 16:11:49] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:11:49] : Routing to frontend
+[2025-06-10 16:12:16] URI requested: /tasks/create
+[2025-06-10 16:12:16] : Routing to frontend
+[2025-06-10 16:12:16] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:12:16] : Routing to frontend
+[2025-06-10 16:12:16] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:12:16] : Routing to frontend
+[2025-06-10 16:12:16] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:12:16] : Routing to frontend
+[2025-06-10 16:12:16] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:12:16] : Routing to frontend
+[2025-06-10 16:12:16] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:12:16] : Routing to frontend
+[2025-06-10 16:12:16] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:12:16] : Routing to frontend
+[2025-06-10 16:12:16] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:12:16] : Routing to frontend
+[2025-06-10 16:12:19] URI requested: /dashboard
+[2025-06-10 16:12:19] : Routing to frontend
+[2025-06-10 16:12:22] URI requested: /dashboard
+[2025-06-10 16:12:22] : Routing to frontend
+[2025-06-10 16:12:25] URI requested: /dashboard
+[2025-06-10 16:12:25] : Routing to frontend
+[2025-06-10 16:15:27] URI requested: /tasks/create
+[2025-06-10 16:15:27] : Routing to frontend
+[2025-06-10 16:15:27] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:15:27] : Routing to frontend
+[2025-06-10 16:15:27] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:15:27] : Routing to frontend
+[2025-06-10 16:15:28] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:15:28] : Routing to frontend
+[2025-06-10 16:15:28] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:28] : Routing to frontend
+[2025-06-10 16:15:28] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:28] : Routing to frontend
+[2025-06-10 16:15:28] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:28] : Routing to frontend
+[2025-06-10 16:15:28] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:28] : Routing to frontend
+[2025-06-10 16:15:30] URI requested: /dashboard
+[2025-06-10 16:15:30] : Routing to frontend
+[2025-06-10 16:15:32] URI requested: /tasks/create
+[2025-06-10 16:15:32] : Routing to frontend
+[2025-06-10 16:15:32] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:15:32] : Routing to frontend
+[2025-06-10 16:15:32] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:15:32] : Routing to frontend
+[2025-06-10 16:15:32] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:15:32] : Routing to frontend
+[2025-06-10 16:15:32] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:32] : Routing to frontend
+[2025-06-10 16:15:32] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:32] : Routing to frontend
+[2025-06-10 16:15:32] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:32] : Routing to frontend
+[2025-06-10 16:15:32] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:32] : Routing to frontend
+[2025-06-10 16:15:34] URI requested: /projects
+[2025-06-10 16:15:34] : Routing to frontend
+[2025-06-10 16:15:34] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:15:34] : Routing to frontend
+[2025-06-10 16:15:34] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:15:34] : Routing to frontend
+[2025-06-10 16:15:34] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:15:34] : Routing to frontend
+[2025-06-10 16:15:34] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:34] : Routing to frontend
+[2025-06-10 16:15:34] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:34] : Routing to frontend
+[2025-06-10 16:15:35] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:35] : Routing to frontend
+[2025-06-10 16:15:35] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:35] : Routing to frontend
+[2025-06-10 16:15:39] URI requested: /tasks
+[2025-06-10 16:15:39] : Routing to frontend
+[2025-06-10 16:15:39] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:15:39] : Routing to frontend
+[2025-06-10 16:15:39] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:15:39] : Routing to frontend
+[2025-06-10 16:15:39] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:39] : Routing to frontend
+[2025-06-10 16:15:39] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:39] : Routing to frontend
+[2025-06-10 16:15:39] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:15:39] : Routing to frontend
+[2025-06-10 16:15:39] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:39] : Routing to frontend
+[2025-06-10 16:15:40] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:40] : Routing to frontend
+[2025-06-10 16:15:47] URI requested: /users
+[2025-06-10 16:15:47] : Routing to frontend
+[2025-06-10 16:15:47] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:15:47] : Routing to frontend
+[2025-06-10 16:15:47] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:15:47] : Routing to frontend
+[2025-06-10 16:15:47] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:15:47] : Routing to frontend
+[2025-06-10 16:15:47] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:47] : Routing to frontend
+[2025-06-10 16:15:47] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:47] : Routing to frontend
+[2025-06-10 16:15:48] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:15:48] : Routing to frontend
+[2025-06-10 16:15:48] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:15:48] : Routing to frontend
+[2025-06-10 16:15:51] URI requested: /dashboard
+[2025-06-10 16:15:51] : Routing to frontend
+[2025-06-10 16:16:33] URI requested: /dashboard
+[2025-06-10 16:16:33] : Routing to frontend
+[2025-06-10 16:16:33] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:16:33] : Routing to frontend
+[2025-06-10 16:16:33] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:16:33] : Routing to frontend
+[2025-06-10 16:16:33] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:16:33] : Routing to frontend
+[2025-06-10 16:16:33] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:16:33] : Routing to frontend
+[2025-06-10 16:16:33] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:16:33] : Routing to frontend
+[2025-06-10 16:16:35] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:16:35] : Routing to frontend
+[2025-06-10 16:16:35] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:16:35] : Routing to frontend
+[2025-06-10 16:16:44] URI requested: /projects
+[2025-06-10 16:16:44] : Routing to frontend
+[2025-06-10 16:16:44] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:16:44] : Routing to frontend
+[2025-06-10 16:16:44] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:16:44] : Routing to frontend
+[2025-06-10 16:16:44] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:16:44] : Routing to frontend
+[2025-06-10 16:16:44] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:16:44] : Routing to frontend
+[2025-06-10 16:16:44] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:16:44] : Routing to frontend
+[2025-06-10 16:16:45] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:16:45] : Routing to frontend
+[2025-06-10 16:16:45] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:16:45] : Routing to frontend
+[2025-06-10 16:16:51] URI requested: /tasks
+[2025-06-10 16:16:51] : Routing to frontend
+[2025-06-10 16:16:51] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:16:51] : Routing to frontend
+[2025-06-10 16:16:51] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:16:51] : Routing to frontend
+[2025-06-10 16:16:51] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:16:51] : Routing to frontend
+[2025-06-10 16:16:51] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:16:51] : Routing to frontend
+[2025-06-10 16:16:51] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:16:51] : Routing to frontend
+[2025-06-10 16:16:56] URI requested: /users
+[2025-06-10 16:16:56] : Routing to frontend
+[2025-06-10 16:16:56] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:16:56] : Routing to frontend
+[2025-06-10 16:16:56] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:16:56] : Routing to frontend
+[2025-06-10 16:16:56] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:16:56] : Routing to frontend
+[2025-06-10 16:16:56] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:16:56] : Routing to frontend
+[2025-06-10 16:16:56] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:16:56] : Routing to frontend
+[2025-06-10 16:18:02] URI requested: /dashboard
+[2025-06-10 16:18:02] : Routing to frontend
+[2025-06-10 16:18:02] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:18:02] : Routing to frontend
+[2025-06-10 16:18:02] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:18:02] : Routing to frontend
+[2025-06-10 16:18:02] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:18:02] : Routing to frontend
+[2025-06-10 16:18:02] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:18:02] : Routing to frontend
+[2025-06-10 16:18:02] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:18:02] : Routing to frontend
+[2025-06-10 16:19:33] URI requested: /dashboard
+[2025-06-10 16:19:33] : Routing to frontend
+[2025-06-10 16:19:33] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:19:33] : Routing to frontend
+[2025-06-10 16:19:33] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:19:33] : Routing to frontend
+[2025-06-10 16:19:33] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:19:33] : Routing to frontend
+[2025-06-10 16:19:33] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:19:33] : Routing to frontend
+[2025-06-10 16:19:33] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:19:33] : Routing to frontend
+[2025-06-10 16:23:13] URI requested: /dashboard
+[2025-06-10 16:23:13] : Routing to frontend
+[2025-06-10 16:23:13] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:23:13] : Routing to frontend
+[2025-06-10 16:23:13] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:23:13] : Routing to frontend
+[2025-06-10 16:23:13] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:23:13] : Routing to frontend
+[2025-06-10 16:23:13] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:23:13] : Routing to frontend
+[2025-06-10 16:23:13] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:23:13] : Routing to frontend
+[2025-06-10 16:23:26] URI requested: /dashboard
+[2025-06-10 16:23:26] : Routing to frontend
+[2025-06-10 16:23:26] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:23:26] : Routing to frontend
+[2025-06-10 16:23:26] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:23:26] : Routing to frontend
+[2025-06-10 16:23:26] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:23:26] : Routing to frontend
+[2025-06-10 16:23:26] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:23:26] : Routing to frontend
+[2025-06-10 16:23:26] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:23:26] : Routing to frontend
+[2025-06-10 16:23:29] URI requested: /dashboard
+[2025-06-10 16:23:29] : Routing to frontend
+[2025-06-10 16:23:29] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:23:29] : Routing to frontend
+[2025-06-10 16:23:29] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:23:29] : Routing to frontend
+[2025-06-10 16:23:29] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:23:29] : Routing to frontend
+[2025-06-10 16:23:29] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:23:29] : Routing to frontend
+[2025-06-10 16:23:29] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:23:29] : Routing to frontend
+[2025-06-10 16:23:31] URI requested: /projects
+[2025-06-10 16:23:31] : Routing to frontend
+[2025-06-10 16:23:31] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:23:31] : Routing to frontend
+[2025-06-10 16:23:31] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:23:31] : Routing to frontend
+[2025-06-10 16:23:31] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:23:31] : Routing to frontend
+[2025-06-10 16:23:31] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:23:31] : Routing to frontend
+[2025-06-10 16:23:31] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:23:31] : Routing to frontend
+[2025-06-10 16:26:45] URI requested: /projects
+[2025-06-10 16:26:45] : Routing to frontend
+[2025-06-10 16:26:45] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:26:45] : Routing to frontend
+[2025-06-10 16:26:45] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:26:45] : Routing to frontend
+[2025-06-10 16:26:45] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:26:45] : Routing to frontend
+[2025-06-10 16:26:45] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:26:45] : Routing to frontend
+[2025-06-10 16:26:45] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:26:45] : Routing to frontend
+[2025-06-10 16:33:29] URI requested: /projects
+[2025-06-10 16:33:29] : Routing to frontend
+[2025-06-10 16:33:29] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:33:29] : Routing to frontend
+[2025-06-10 16:33:29] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:33:29] : Routing to frontend
+[2025-06-10 16:33:29] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:33:29] : Routing to frontend
+[2025-06-10 16:33:29] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:33:29] : Routing to frontend
+[2025-06-10 16:33:29] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:33:29] : Routing to frontend
+[2025-06-10 16:33:30] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:33:30] : Routing to frontend
+[2025-06-10 16:33:30] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:33:30] : Routing to frontend
+[2025-06-10 16:33:32] URI requested: /projects/create
+[2025-06-10 16:33:32] : Routing to frontend
+[2025-06-10 16:33:33] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:33:33] : Routing to frontend
+[2025-06-10 16:33:33] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:33:33] : Routing to frontend
+[2025-06-10 16:33:33] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:33:33] : Routing to frontend
+[2025-06-10 16:33:33] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:33:33] : Routing to frontend
+[2025-06-10 16:33:33] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:33:33] : Routing to frontend
+[2025-06-10 16:33:33] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:33:33] : Routing to frontend
+[2025-06-10 16:33:33] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:33:33] : Routing to frontend
+[2025-06-10 16:36:02] URI requested: /projects/create
+[2025-06-10 16:36:02] : Routing to frontend
+[2025-06-10 16:36:02] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:36:02] : Routing to frontend
+[2025-06-10 16:36:02] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:36:02] : Routing to frontend
+[2025-06-10 16:36:02] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:36:02] : Routing to frontend
+[2025-06-10 16:36:02] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:36:02] : Routing to frontend
+[2025-06-10 16:36:02] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:36:02] : Routing to frontend
+[2025-06-10 16:36:03] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:36:03] : Routing to frontend
+[2025-06-10 16:36:03] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:36:03] : Routing to frontend
+[2025-06-10 16:38:16] URI requested: /frontend/pages/projects/create.php
+[2025-06-10 16:38:16] : Routing to frontend
+[2025-06-10 16:38:16] URI requested: /login
+[2025-06-10 16:38:16] : Routing to frontend
+[2025-06-10 16:38:16] URI requested: /assets/css/auth.css
+[2025-06-10 16:38:16] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/auth.css
+[2025-06-10 16:38:16] : Asset file exists, serving it
+[2025-06-10 16:38:17] URI requested: /assets/css/style.css
+[2025-06-10 16:38:17] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/css/style.css
+[2025-06-10 16:38:17] : Asset file exists, serving it
+[2025-06-10 16:38:17] URI requested: /assets/js/auth.js
+[2025-06-10 16:38:17] Asset file path: /home/mohi/projectflow-ing1-5-2025/frontend/assets/js/auth.js
+[2025-06-10 16:38:17] : Asset file exists, serving it
+[2025-06-10 16:38:25] URI requested: /frontend/pages/projects/create.php
+[2025-06-10 16:38:25] : Routing to frontend
+[2025-06-10 16:38:25] URI requested: /frontend/assets/css/style.css
+[2025-06-10 16:38:25] : Routing to frontend
+[2025-06-10 16:38:25] URI requested: /frontend/assets/css/dashboard.css
+[2025-06-10 16:38:25] : Routing to frontend
+[2025-06-10 16:38:25] URI requested: /frontend/assets/img/logo-white.png
+[2025-06-10 16:38:25] : Routing to frontend
+[2025-06-10 16:38:25] URI requested: /frontend/assets/js/main.js
+[2025-06-10 16:38:25] : Routing to frontend
+[2025-06-10 16:38:25] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:38:25] : Routing to frontend
+[2025-06-10 16:38:27] URI requested: /frontend/assets/js/auth.js
+[2025-06-10 16:38:27] : Routing to frontend
